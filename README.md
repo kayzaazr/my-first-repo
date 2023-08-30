@@ -4,4 +4,4 @@ NPM     : 2206083211
 
 Kelas   : PBP B
 
-Jurusan : Sistem Informasi.
+Hobi    : Makan
